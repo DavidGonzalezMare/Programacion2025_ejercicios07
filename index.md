@@ -240,5 +240,5 @@ Cuando se pulse el botón de cursos aparecerá una pantalla similar a la siguien
 
 Al pulsar el botón de gestión de profesores aparecerá un formulario similar al siguiente:
 
-![Ejercicio 6 c](./images/imagen06c.png)
+![Ejercicio 6 d](./images/imagen06d.png)
 
