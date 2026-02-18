@@ -230,7 +230,7 @@ Cuando se pulse el botón de cursos aparecerá una pantalla similar a la siguien
   
 - **Eliminar curso**, borrará un curso pidiendo su código.
   
-- **Mostrar todos los alumnos**. Se introducirá un código de curso y se mostrará los datos de todos los alumnos pertenecientes a ese curso.
+- **Mostrar todos los cursos**. Mostrará todos los cursos.
   
 - **Mostrar alumnos pertenecientes a un curso**, pedirá el código del curso y mostrará aquellos alumnos que pertenezcan al mismo.
 
